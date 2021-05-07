@@ -1,6 +1,6 @@
 ## Latest post
 
-My latest post [Found here](https://h9839.github.io/test/kb) details all the best keybaords at every price range. I wrote this because I got tired of seeing all the first results in google reccomending crappy overpriced boards.I'm also very lazy so I decided that it would be easier to have a link I could share when reccomending boards instead of typing it out every time. 
+My latest post [found here](https://h9839.github.io/test/kb) details all the best keybaords at every price range. I wrote this because I got tired of seeing all the first results in google reccomending crappy overpriced boards.I'm also very lazy so I decided that it would be easier to have a link I could share when reccomending boards instead of typing it out every time. 
 
 
 ### What do I post about on this blog?
