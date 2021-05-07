@@ -1,4 +1,4 @@
-I got tired of seeing people reccomend bad keyboards so I made an article that lists the best prebuilt keybaords at evry price range. To better understand how mechanical keybaords work I suggest [keybaord.university](keybaord.university). To anwser the "Why get a mechanical keybaord?" question try one out in a store, at a meetup, at a friends house, or order one off amazon to try out and return. As soon as you type on one you will know exactly why people love them so much. 
+I got tired of seeing people reccomend bad keyboards so I made an article that lists the best prebuilt keyboards at evry price range. To better understand how mechanical keybaords work I suggest [keybaord.university](keybaord.university). To anwser the "Why get a mechanical keybaord?" question try one out in a store, at a meetup, at a friends house, or order one off amazon to try out and return. As soon as you type on one you will know exactly why people love them so much. 
 
 **Under 40**
 
