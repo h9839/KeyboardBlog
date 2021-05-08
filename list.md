@@ -12,4 +12,4 @@ I got tired of seeing people reccomend bad keyboards so I made an article that l
 ## [Hotswappable Keyboard PCBs](https://h9839.github.io/test/kbhs)
 
 
-Hot Swappable Keyboard PCBs. This feature is all the range now and has become a big market karting buzzword in keyboards, mainly thanks to the glorious lineup of products, but what is it actually?
+Hot Swappable Keyboard PCBs. This feature is all the range now and has become a big marketing buzzword in keyboards, mainly thanks to the glorious lineup of products, but what is it actually?
