@@ -21,7 +21,7 @@ In a typical PCB this medium is melted metal, called solder that lets the PCB co
 This image shows this
 
 
- ![General Keybaord PCB](/images/solder.png)
+ ![General Keybaord PCB](/images/normal.png)
 
 
 *   To make it so that you don’t have to go through the process of soldering and desoldering switches, hotswap PCBs were invented. This is where a permanent piece of solid metal sits in the PCB between the switch and the PCB and replaces the solder. This makes swapping switches much easier. 
