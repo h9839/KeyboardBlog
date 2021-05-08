@@ -11,7 +11,7 @@ A keyboard PCB is basically just a wire inside a piece of plastic. The wires go 
 
 This image illustrates this
 
- 
+ ![General Keybaord PCB](/images/aa.png)
 
 
 In this image you see how the switch leg (the blue circle) connects to the PCB (the green box) through a sort of connection medium. 
@@ -21,8 +21,16 @@ In a typical PCB this medium is melted metal, called solder that lets the PCB co
 This image shows this
 
 
+ ![General Keybaord PCB](/images/solder.png)
+
 
 *   To make it so that you don’t have to go through the process of soldering and desoldering switches, hotswap PCBs were invented. This is where a permanent piece of solid metal sits in the PCB between the switch and the PCB and replaces the solder. This makes swapping switches much easier. 
+
+This is a diagram
+
+
+ ![General Keybaord PCB](/images/hotswap_pcb.png)
+
 
 Pros and cons of the various systems
 
