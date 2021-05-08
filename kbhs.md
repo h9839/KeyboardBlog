@@ -1,7 +1,7 @@
 
 **Hot Swappable Keyboard PCBs**
 
-This feature is all the range now and has become a big market karting buzzword in keyboards, mainly thanks to the glorious lineup of products, but what is it actually?
+This feature is all the range now and has become a big marketing buzzword in keyboards, mainly thanks to the glorious lineup of products, but what is it actually?
 
 What does a PCB do?
 
