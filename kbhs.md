@@ -11,7 +11,7 @@ A keyboard PCB is basically just a wire inside a piece of plastic. The wires go 
 
 This image illustrates this
 
- \
+ 
 
 
 In this image you see how the switch leg (the blue circle) connects to the PCB (the green box) through a sort of connection medium. 
